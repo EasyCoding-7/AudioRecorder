@@ -2,6 +2,10 @@
 
 * ffmpeg을 이용한 Audio Player 및 Audio Recorder Project
 
+### Todo
+
+* [ ] Visual Studio용으로 새롭게 프로젝트 
+
 ---
 
 # AudioRecorder
