@@ -1,3 +1,9 @@
+## 개인 comment
+
+* ffmpeg을 이용한 Audio Player 및 Audio Recorder Project
+
+---
+
 # AudioRecorder
 
 use lib of ffmpeg to record audio as a aac file.
